@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+*.tmp
+
+# IDEs e configs locais
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos temporários
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados pelo app
+*.pdf
+*.xlsx
+*.csv
+*.parquet
+
+# Testes
+.coverage
+htmlcov/
+.cache/
+.pytest_cache/
